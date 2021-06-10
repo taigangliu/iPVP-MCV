@@ -19,7 +19,8 @@ We can download from anaconda cloud.
 
 Usage
 =========================
-To run: $ iPVP-MCV-AAC.py
+To run: 
+        $ iPVP-MCV-AAC.py
         $ iPVP-MCV-DP-PSSM.py  
         $ iPVP-MCV-PSSM-composition.py  
         $ Ind-vote.py
