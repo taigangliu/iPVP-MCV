@@ -24,4 +24,5 @@ To run: $ iPVP-MCV-AAC.py
         $ iPVP-MCV-PSSM-composition.py  
         $ Ind-vote.py
 The iPVP-MCV-AAC.py, iPVP-MCV-DP-PSSM.py and iPVP-MCV-PSSM-composition.py files implement the baseline models of iPVP-MCV, the Ind-vote.py integrates the outputs of these baseline models for final prediction.
+ 
 If you want to use different training and test data, please change the directory name inside the file.
