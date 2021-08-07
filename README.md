@@ -1,7 +1,7 @@
 iPVP-MCV
 =========================
-iPVP-MCV was developed for the prediction of Phage virion proteins. The overall process is described below. 
-Firstly, three feature encodings, i.e., PSSM-AAC, PSSM-composition, and DP-PSSM, were designed to transform protein sequences into fixed-length numeric vectors. Secondly, a set of SVM classifiers were trained as the baseline models based on each type of features. Finally, the outputs of these baseline models were integrated to construct an ensemble predictor by using the majority voting strategy for identifying PVPs.
+iPVP-MCV was developed for the prediction of Phage virion proteins, system diagram are shown belw:
+![image](https://user-images.githubusercontent.com/44895765/128601799-38ba42e5-b079-4b74-8840-7bc5841a5a49.png)
 
 Installation Process
 =========================
