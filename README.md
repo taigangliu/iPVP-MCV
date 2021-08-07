@@ -1,6 +1,6 @@
 iPVP-MCV
 =========================
-iPVP-MCV was developed for the prediction of Phage virion proteins, system diagram are shown belw:
+iPVP-MCV was developed for the prediction of Phage virion proteins. The system diagram is as follows:
 ![image](https://user-images.githubusercontent.com/44895765/128601820-9b09ab05-bc76-40c3-b1db-c7f5399cb498.png)
 
 Installation Process
